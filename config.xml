@@ -15,4 +15,8 @@
       Ben Nelson
   </author>
 
+
+<plugin spec="https://github.com/sunnycupertino/cordova-plugin-admob-simple" source="git" />
+
+
 </widget>
